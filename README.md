@@ -1,2 +1,2 @@
 # Can
-can bus
+linux can bus
